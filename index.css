@@ -39,6 +39,7 @@ body {
 }
 .img{
   border-radius: 25px;
+  text-align: right;
 }
 .highlight {
   color: #a259ff;
