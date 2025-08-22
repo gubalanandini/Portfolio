@@ -17,6 +17,10 @@ body {
 }
 
 /* Hero Section */
+img{
+  border: 25px;
+
+}
 .hero {
   text-align: center;
   padding: 100px 20px 60px;
