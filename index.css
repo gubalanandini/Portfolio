@@ -17,10 +17,6 @@ body {
 }
 
 /* Hero Section */
-img{
-  border: 25px;
-
-}
 .hero {
   text-align: center;
   padding: 100px 20px 60px;
@@ -40,6 +36,9 @@ img{
   font-size: 1rem;
   color: #bbbbbb;
   margin-bottom: 30px;
+}
+.img{
+  border-radius: 25px;
 }
 .highlight {
   color: #a259ff;
