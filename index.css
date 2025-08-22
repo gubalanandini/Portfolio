@@ -23,7 +23,7 @@ body {
   background: #000000;  /* Pure black */
 }
 .hero-image img {
-  text-align: left;
+  text-align: end;
   width: 180px;
   height: 180px;
   object-fit: cover;
